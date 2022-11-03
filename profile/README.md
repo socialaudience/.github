@@ -1,6 +1,6 @@
 ## Hey, this is us 👋
 
-![digitalAudienceHeader](../images/header.jpeg)
+![digitalAudienceHeader](https://github.com/socialaudience/.github/blob/main/images/header.jpeg)
 
 We empower brands, agencies publishers & technology partners to leverage offline deterministic data through identifying, enriching and activating this data into the digital ecosystem 🪐.
 
